@@ -9,10 +9,10 @@ With this tool, you can explore the logic behind YouTube’s sidebar recommendat
 ### 1. Set Up the Project Structure
 ### 2. Install Dependencies
 ### ~~3. Basic Web Scraping for Sidebar Data~~
-### 4. Save Data to a File
+### ~~4. Save Data to a File~~
 ### 5. Basic Script Testing
 ### 6. Improve Data Parsing
-### 7. Command-Line Interface (CLI)
+### 7. ~~Command-Line Interface (CLI)~~
 ### 8. Handle Edge Cases
 ### 9. Basic Documentation
 ### 10. Testing
